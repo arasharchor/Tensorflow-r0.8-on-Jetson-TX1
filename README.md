@@ -209,7 +209,7 @@ $ git checkout r0.8
 $ git submodule update –init
 ```
 
-이제 빌드를 위한 Tensorflow를 설정 해주세요 각각 python과 gcc, cuda, cudnn의 위치를 설정하여야 할 것 입니다. 경로가 모두 정상이면 binary size에 3.2을 입력하면 설정이 완료됩니다.
+이제 빌드를 위한 Tensorflow를 설정 해주세요 각각 python과 gcc, cuda, cudnn의 위치를 설정하여야 할 것 입니다. 경로가 모두 정상이면 binary size에 5.3을 입력하면 설정이 완료됩니다.
 
 ```
 Ubuntu@tegra-ubuntu:~/tensorflow$ TF_UNOFFICIAL_SETTING=1 ./configure

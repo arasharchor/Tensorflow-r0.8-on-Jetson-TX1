@@ -224,7 +224,7 @@ Please specify the location where cuDNN  library is installed. Refer to README.m
 Please specify a list of comma-separated Cuda compute capabilities you want to build with.
 You can find the compute capability of your device at: https://developer.nvidia.com/cuda-gpus.
 Please note that each additional compute capability significantly increases your build time and binary size.
-[Default is: "3.5,5.2"]: 3.2
+[Default is: "3.5,5.2"]: 5.3
 Setting up Cuda include
 Setting up Cuda lib
 Setting up Cuda bin
